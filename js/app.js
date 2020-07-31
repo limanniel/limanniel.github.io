@@ -19,7 +19,7 @@ tsParticles.load('particles-js',
       },
       "enable": false
     },
-    "detectRetina": true,
+    "detectRetina": false,
     "fpsLimit": 60,
     "infection": {
       "cure": false,
