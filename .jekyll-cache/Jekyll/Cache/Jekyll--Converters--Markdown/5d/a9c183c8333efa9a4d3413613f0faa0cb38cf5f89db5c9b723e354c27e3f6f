@@ -1,0 +1,19 @@
+I"\<p>Voxel-o-Defence was a University group project for the “Technical Games Production” module in the 3rd Semester, Second year of the degree during which, we’ve been tasked to create a game and simulate “working in the studio” conditions.
+For the game, our team decided to use raw DirectX 11 with addition of DirectXTK to aid the process and make it possible to accomplish within a tight 6 weeks timeframe.
+My part in the project includes</p>
+<ul>
+  <li>The boilerplate code
+    <ul>
+      <li>Shader Compilation &amp; Management</li>
+      <li>Render &amp; Update pipeline</li>
+      <li>Object Abstraction</li>
+      <li>Wrapper classes for DirectXTK library</li>
+    </ul>
+  </li>
+  <li>Camera system (FPS &amp; Isometric)</li>
+  <li>Audio Handling</li>
+  <li>Skybox</li>
+  <li>Debug Objects</li>
+  <li>Simple templetized debug logging</li>
+</ul>
+:ET
